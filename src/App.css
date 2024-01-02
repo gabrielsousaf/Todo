@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #1A1A1A;
+}
+
+
+.App {
+  width: 100%;
+  height: 100%;
+}
+
+
+.header {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background:#0d0d0d ;
+  padding: 2rem;
+  font-family: "Roboto", sans-serif;
+}
+
+
+.logoside {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logoside h1{
+  background: linear-gradient(45deg, #3589FF, #5E60CE);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.logoside svg {
+  font-size: 1.5rem;
+  margin: 0 10px;
+  animation: spin 6s linear infinite;
+  color: #3589FF;
+}
+
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+@media(max-width: 600px){
+  .header{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+}
+
