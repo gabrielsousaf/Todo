@@ -1,7 +1,8 @@
 <h1 align="center" width:100%>
 
-![MiniBlog React - Google Chrome 2023-06-29 16-05-52](https://github.com/gabrielsousaf/MiniBlog-React/assets/121953504/776b1c7e-60dd-46c2-adc2-35beabe06064)
-![Cópia_de_Design_sem_nome-removebg-preview](https://github.com/gabrielsousaf/MiniBlog-React/assets/121953504/9892758e-8386-4501-9c27-5d656d22ad19)
+![2024-01-02 11-12-06](https://github.com/gabrielsousaf/Todo/assets/121953504/b6ac0c65-c7fc-4473-ac1e-0e7c6de0a459)
+![Design_sem_nome-removebg-preview](https://github.com/gabrielsousaf/Todo/assets/121953504/fae0354f-8318-4f30-b11f-0e2fcf465714)
+
 
  
 
